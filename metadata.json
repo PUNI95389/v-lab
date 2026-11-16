@@ -1,0 +1,6 @@
+{
+  "name": "Principia Labs",
+  "description": "Interactive educational virtual laboratory and teacher course management platform covering Class 9 through Engineering syllabi with real-time simulations, scientific feedback, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
